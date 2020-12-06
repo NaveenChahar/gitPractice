@@ -1,0 +1,59 @@
+.signupcontainer{
+    background: white;
+    border-radius: 5%;
+    width:30%;
+    margin:5rem auto;
+    padding:5px;
+   box-shadow:0px 0px 10px gray;
+}
+
+.eachel{
+margin:1rem auto;
+width:20%
+}
+
+.banner{
+    padding:1rem;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.droparea{
+    max-height: 300px
+}
+
+.dropdown{
+    width: 75%;
+    left: 0px;
+    max-height: 200px;
+}
+
+@media screen and (max-width:1042px){
+    .eachel{
+        width: 30%;
+    }
+}
+
+@media screen and (max-width:760px){
+    .eachel{
+        width: 40%;
+    }
+}
+@media screen and (max-width:520px){
+    .eachel{
+        width: 50%;
+    }
+    .dropdown{
+        width: 100%;
+    }
+}
+@media screen and (max-width:400px){
+    .eachel{
+        width: 60%;
+    }
+}
+@media screen and (max-width:300px){
+    .eachel{
+        width: 75%;
+    }
+}
