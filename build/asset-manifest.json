@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gitPractice/static/css/main.521e6932.chunk.css",
+    "main.js": "/gitPractice/static/js/main.5ec57616.chunk.js",
+    "main.js.map": "/gitPractice/static/js/main.5ec57616.chunk.js.map",
+    "runtime-main.js": "/gitPractice/static/js/runtime-main.bc860023.js",
+    "runtime-main.js.map": "/gitPractice/static/js/runtime-main.bc860023.js.map",
+    "static/js/2.66a9379c.chunk.js": "/gitPractice/static/js/2.66a9379c.chunk.js",
+    "static/js/2.66a9379c.chunk.js.map": "/gitPractice/static/js/2.66a9379c.chunk.js.map",
+    "index.html": "/gitPractice/index.html",
+    "precache-manifest.099da11397f20acb314f586edd5bf644.js": "/gitPractice/precache-manifest.099da11397f20acb314f586edd5bf644.js",
+    "service-worker.js": "/gitPractice/service-worker.js",
+    "static/css/main.521e6932.chunk.css.map": "/gitPractice/static/css/main.521e6932.chunk.css.map",
+    "static/js/2.66a9379c.chunk.js.LICENSE.txt": "/gitPractice/static/js/2.66a9379c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc860023.js",
+    "static/js/2.66a9379c.chunk.js",
+    "static/css/main.521e6932.chunk.css",
+    "static/js/main.5ec57616.chunk.js"
+  ]
+}
